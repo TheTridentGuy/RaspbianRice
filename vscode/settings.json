@@ -30,6 +30,7 @@
         "tab.activeBackground": "#000",
         "tab.inactiveBackground": "#000",
         "tab.activeForeground": "#0f0", 
-        "tab.inactiveForeground": "#0f0"
+        "tab.inactiveForeground": "#0f0",
+        "tab.activeBorderTop": "#0f0",
     }
 }
