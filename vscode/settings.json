@@ -23,7 +23,13 @@
         "list.inactiveSelectionForeground": "#0f0",
         "list.focusHighlightForeground": "#000",
         "editor.background": "#000",
-        "editor.foreground": "#0f0",       
+        "editor.foreground": "#0f0",  
+        "focusBorder": "#0f0",     
         "debugToolBar.background": "#000",
+        "tab.border": "#0f0",
+        "tab.activeBackground": "#000",
+        "tab.inactiveBackground": "#000",
+        "tab.activeForeground": "#0f0", 
+        "tab.inactiveForeground": "#0f0"
     }
 }
